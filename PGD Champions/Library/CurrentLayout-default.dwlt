@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 791
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 522}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 472}
   m_MaxSize: {x: 18006, y: 14022}
   vertical: 0
-  controlID: 144
+  controlID: 99
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -409,9 +409,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 96320000
       m_LastClickedID: 0
-      m_ExpandedIDs: 60e3ffff98e3ffffa2e3ffffbce5fffff4e5ffff9ce6ffff5eecffff96ecffff3eedffff78fbffff04420000
+      m_ExpandedIDs: f0e1ffff78fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -474,20 +474,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Car
+    - Assets/Simple_City_Lite/Scene
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts/Car
+  - Assets/Simple_City_Lite/Scene
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Proyek\Doing\PGD-Champions\PGD Champions
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 33}
-    m_SelectedIDs: 8e2e0000
-    m_LastClickedID: 11918
-    m_ExpandedIDs: 000000009a2c0000c02d000000ca9a3b
+    scrollPos: {x: 0, y: 129}
+    m_SelectedIDs: 9c320000
+    m_LastClickedID: 12956
+    m_ExpandedIDs: 000000009a2c0000c02d0000a832000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -607,9 +607,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.567837, y: 1.6275568, z: -0.5746735}
+    m_Target: {x: -1.7072576, y: 1.4622996, z: -0.55930716}
     speed: 2
-    m_Value: {x: -1.567837, y: 1.6275568, z: -0.5746735}
+    m_Value: {x: -1.7072576, y: 1.4622996, z: -0.55930716}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -642,9 +642,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.31287464, y: -0.605523, z: 0.2802829, w: 0.6759386}
   m_Size:
-    m_Target: 8.068026
+    m_Target: 61.898605
     speed: 2
-    m_Value: 8.068026
+    m_Value: 61.898605
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -755,10 +755,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 319.2
+    x: 232
     y: 73.6
-    width: 892
-    height: 272
+    width: 978
+    height: 385
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 MonoBehaviour:

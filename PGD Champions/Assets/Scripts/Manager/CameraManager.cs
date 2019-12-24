@@ -10,7 +10,7 @@ public class CameraManager : MonoBehaviour
     public float speed = 1f;
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         transform.position = Vector3.Lerp(transform.position, focus.transform.position + focus.transform.TransformDirection(new Vector3(0, height, -distance)), speed * Time.deltaTime);
         transform.LookAt(focus.transform);

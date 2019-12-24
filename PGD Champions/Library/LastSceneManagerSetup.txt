@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Toon Gas Station/Scenes/Demo_Scene_1.unity
+- path: Assets/Simple_City_Lite/Scene/Demo_Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

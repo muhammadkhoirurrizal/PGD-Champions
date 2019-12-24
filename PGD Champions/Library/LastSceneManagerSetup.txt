@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/8K Skybox Pack Free/Example Scenes/sky-9.unity
+- path: Assets/Toon Gas Station/Scenes/Demo_Scene_1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

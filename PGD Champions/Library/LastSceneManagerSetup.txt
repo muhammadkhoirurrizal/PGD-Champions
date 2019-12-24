@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Simple_City_Lite/Scene/Demo_Scene.unity
+- path: Assets/8K Skybox Pack Free/Example Scenes/sky-9.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
